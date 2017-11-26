@@ -1,0 +1,17 @@
+[
+  {
+    "quiz": [
+     
+      {
+      "question": "What is the lifetime of the satellite?",
+      "answer1": "10 years ",
+      "answer2": "12 years",
+      "answer3": "15 years",
+      "answer4": "20 years",
+      "correct": "15 years"
+
+      } 
+    
+    ]
+  }
+]
